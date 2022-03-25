@@ -19,11 +19,11 @@
 ## Modules
 
 1. Introduction
-2. What is ML and how to write ML code 
+2. What is ML?
 3. Setting up your python workstation 
 3. Building models with scikit learn 
 5. ML in products and solutions
-5. Serving
+5. Model Serving
 6. Data processing 
 7. Scaling
 8. MLOps
@@ -43,5 +43,4 @@ Have this ready to go!
 - Numpy, Pandas, Seaborn
 - BentoML
 - MLFlow
-
 
